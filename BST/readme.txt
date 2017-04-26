@@ -1,0 +1,1 @@
+The requirement was to implement a binary search tree that satisfied the interface required by the instructor supplied program.  I only wrote the bst.java file, all others were provided by the instructor.
