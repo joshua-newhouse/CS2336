@@ -1,0 +1,1 @@
+These are source files for an IRC chatbot.  The requirement was to build a chatbot that connects to a FreeNode IRC channel and respond to commands.  This particular bot utilizes openweathermap.com api to report weather and oxforddictionaries.com api to provide definitions of words.
